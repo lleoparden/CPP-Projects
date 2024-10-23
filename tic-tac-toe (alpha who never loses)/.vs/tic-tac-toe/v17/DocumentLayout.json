@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mosta\\source\\repos\\tic-tac-toe\\",
+  "WorkspaceRootPath": "C:\\Users\\mosta\\git\\CPP-Projects\\tic-tac-toe (alpha who never loses)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B3E8DCD-846F-40C1-ABE4-D8262A620668}|tic-tac-toe\\tic-tac-toe.vcxproj|C:\\Users\\mosta\\source\\repos\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0B3E8DCD-846F-40C1-ABE4-D8262A620668}|tic-tac-toe\\tic-tac-toe.vcxproj|C:\\Users\\mosta\\git\\CPP-Projects\\tic-tac-toe (alpha who never loses)\\tic-tac-toe\\tic-tac-toe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0B3E8DCD-846F-40C1-ABE4-D8262A620668}|tic-tac-toe\\tic-tac-toe.vcxproj|solutionrelative:tic-tac-toe\\tic-tac-toe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "tic-tac-toe.cpp",
-              "DocumentMoniker": "C:\\Users\\mosta\\source\\repos\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe.cpp",
+              "DocumentMoniker": "C:\\Users\\mosta\\git\\CPP-Projects\\tic-tac-toe (alpha who never loses)\\tic-tac-toe\\tic-tac-toe.cpp",
               "RelativeDocumentMoniker": "tic-tac-toe\\tic-tac-toe.cpp",
-              "ToolTip": "C:\\Users\\mosta\\source\\repos\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe.cpp",
-              "RelativeToolTip": "tic-tac-toe\\tic-tac-toe.cpp",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAAAAwBAAATAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\mosta\\git\\CPP-Projects\\tic-tac-toe (alpha who never loses)\\tic-tac-toe\\tic-tac-toe.cpp*",
+              "RelativeToolTip": "tic-tac-toe\\tic-tac-toe.cpp*",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAswBIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-10T17:10:07.2Z",
               "EditorCaption": ""
